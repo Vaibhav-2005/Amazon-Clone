@@ -3,11 +3,11 @@ A CSS-based clone of the Amazon homepage, built to replicate the look and feel o
 
 ![Screenshot 2024-11-11 234414](https://github.com/user-attachments/assets/46a771b4-0eea-4894-ab31-3fe5fb6029c6)
 
-#Technologies Used
+# Technologies Used
 HTML5 for structuring the content.
 CSS3 for styling, layout, and responsiveness.
 
-#Usage
+# Usage
 This project can serve as a practice tool for:
 
 Learning HTML and CSS fundamentals
