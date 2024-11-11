@@ -13,12 +13,11 @@ The Amazon Homepage Clone project is a static web page designed to mimic the vis
 * Footer: Styled with links and sections similar to Amazon's footer, providing a complete homepage look.
 
 # Technologies Used
-HTML5 for structuring the content.
-CSS3 for styling, layout, and responsiveness.
+* HTML5 for structuring the content.
+* CSS3 for styling, layout, and responsiveness.
 
 # Usage
 This project can serve as a practice tool for:
-
-Learning HTML and CSS fundamentals
-Understanding responsive design techniques
-Experimenting with page layout and structure
+* Learning HTML and CSS fundamentals
+* Understanding responsive design techniques
+* Experimenting with page layout and structure
